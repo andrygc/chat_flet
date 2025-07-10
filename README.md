@@ -3,18 +3,34 @@ Chat en tiempo real creado con Python y Flet
 
 ### INSTALACION
 1. Primero crear un entorno virtual:
-```python
-  python -m venv env
+```bash
+  python -m venv nombre_entorno_virtual
 ```
 
 2. Activar el entorno virtual:
+- Windows:
 ```bash
-  env/Scripts/activate
+  .\nombre_entorno_virtual\Scripts\activate
+```
+- Linux/MacOS:
+```bash
+  source nombre_entorno_virtual/bin/activate
+```
+source nombre_del_entorno/bin/activate
+
+3. Actualizar *pip* a la ultima version:
+```bash
+  pip install --upgrade pip
 ```
 
-2. Instalar las dependencias deben instalarlas usando el archivo *requirements.txt*:
-```python
+4. Instalar las dependencias deben instalarlas usando el archivo *requirements.txt*:
+```bash
   pip install -r requirements.txt
+```
+
+5. Correr el proyecto:
+```bash
+  python -m main.py
 ```
 
 ## Licencia

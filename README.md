@@ -1,4 +1,4 @@
-![Chat Flet](./screenshots/screenshot.png?raw=true "Chat Flet")
+![Chat Flet](./assets/screenshots/screenshot.png?raw=true "Chat Flet")
 
 # Chat Flet 
 Chat en tiempo real creado con Python y Flet

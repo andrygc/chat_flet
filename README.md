@@ -16,7 +16,6 @@ Chat en tiempo real creado con Python y Flet
 ```bash
   source nombre_entorno_virtual/bin/activate
 ```
-source nombre_del_entorno/bin/activate
 
 3. Actualizar *pip* a la ultima version:
 ```bash
